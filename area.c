@@ -1,11 +1,12 @@
-/*WAP a program to ptint sum of three numbers.
-Student Name:aakash shrestha
-Subject:Programming Fundamentals
-Roll no:
-Program:
-Lab no:04
-Date:2016/9/19
+/*
+Student Name: Aakash shrestha
+Subject: Programming Fundamentals
+Roll no: 01
+Program: Write a program to ptint sum of three numbers.
+Lab no: 04
+Date: 2016/9/19
 */
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
