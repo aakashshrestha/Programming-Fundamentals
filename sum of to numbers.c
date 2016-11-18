@@ -4,7 +4,7 @@ subject: Programing Fundamentals
 Roll: 01
 Program: Write a C program to print sum of two numbers asked from users.
 Lab:01
-Date:27/09/2016
+Date: 18/11/2016
 */
 
   #include<stdio.h>
