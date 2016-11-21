@@ -3,7 +3,7 @@
    Subject: Programing Fundamentals
    Roll: 01
    Program: Write a C program to print area of triangle.
-   Lab:0
+   Lab:04
    Date:21/11/2016
 */
 
