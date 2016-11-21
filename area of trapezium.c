@@ -2,7 +2,7 @@
    Student Name: Aakash Shrestha
    Subject: Programing Fundamentals
    Roll: 01
-   Program: Write a C program to print area of triangle.
+   Program: Write a C program to print area of trapezium.
    Lab:04
    Date:21/11/2016
 */
