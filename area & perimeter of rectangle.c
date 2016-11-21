@@ -8,7 +8,7 @@
 */
 
      #include<stdio.h>
-     //includes<conio.h>
+     //include<conio.h>
 
    int main()
 {
