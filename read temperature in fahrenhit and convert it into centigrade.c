@@ -3,7 +3,7 @@
    Subject: Programing Fundamentals
    Roll: 01
    Program: Write a C program to read temperature in fahrenhit and convert it into centigrade.
-   Lab:04
+   Lab:05
    Date:23/11/2016
 */
 
