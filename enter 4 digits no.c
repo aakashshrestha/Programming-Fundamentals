@@ -35,5 +35,5 @@ int main()
 
         printf("The remainder is %d\n",d);
 
-        3return(0);
+        return(0);
 }
