@@ -3,12 +3,12 @@ Student Name: Aakash Shrestha
 subject: Programing Fundamentals
 Roll: 01
 Program: Write a program to display the following patterns.
-Lab:01
+Lab:19
 Date: 16/01/2017
 */
 
    #include<stdio.h>
-   #include<conio.h>
+   //#include<conio.h>
 
      int main()
 {
